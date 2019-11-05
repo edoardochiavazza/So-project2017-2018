@@ -1,0 +1,37 @@
+https://git-scm.com/docs/git-clone
+
+▸ status:
+mostra lo stato del progetto. File identici
+all'ultima versione salvata non vengono mostrati. File
+modificati, cancellati, o nuovi vengono visualizzati
+(con colori diversi se avete abilitato questa opzione)
+
+▸ log:
+mostra un log dell'evoluzione del progetto. Nel
+caso il progetto sia stato clonato le informazioni
+includeranno la storia del progetto originale
+
+▸ add:
+aggiunge uno o più file alla "staging area". Il
+contenuto di questa area determinerà quali modifiche
+andranno a fare parte del prossimo commit. È
+necessario aggiungere esplicitamente tutti i file che
+sono stati modificati o creati
+
+▸ rm:
+rimuove uno o più file sia dalla directory locale
+che sul repository (al prossimo commit). È necessario
+aggiungere esplicitamente tutti i file che sono stati
+cancellati
+
+▸ commit:
+salva lo stato del progetto
+
+▸ pull:
+recupera lo stato del progetto "remoto"
+associato alla copia corrente e lo fonde con la copia
+attuale
+
+▸ push:
+salva le modifiche fatte al repository locale
+integrandole nel repository remoto
